@@ -37,3 +37,9 @@
 ## [Day 3](03-Day-3.md)
 
 ## [Day 4](04-Day-4.md)
+
+## Helper
+
+- [Awesome iOS](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions and plugins, components and much more.
+- Apple's [Guides and Sample Code](https://developer.apple.com/library/content/navigation/)
+- [Apple Developer Documentation](https://developer.apple.com/documentation)
