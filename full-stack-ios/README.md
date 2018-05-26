@@ -48,6 +48,18 @@
 
 ## [Day 3](03-Day-3.md)
 
+### Day 3 [Morning](03-Day-3.md#day-3-morning)
+
+- Swift
+  - [Getting start with playground](03-Day-3.md#getting-start-with-playgound)
+  - [A Swift Tour](03-Day-3.md#a-swift-tour)
+
+### Day 3 [Afternoon](03-Day-3.md#day-3-afternoon)
+
+- Continue a Swift Tour
+- [Connect to API](03-Day-3.md#connect-to-api-part-1)
+- [Working with dependencies](03-Day-3.md#working-with-dependencies-part-1)
+
 ***
 
 ## [Day 4](04-Day-4.md)
