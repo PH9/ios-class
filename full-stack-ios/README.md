@@ -23,6 +23,17 @@
 
 ## [Day 2](02-Day-2.md)
 
+- [Create Table View](02-Day-2.md#create-table-view)
+  - [Design Custom Table Cells](02-Day-2.md#design-custom-table-cells)
+  - [Connect the Table Cell UI to Code](02-Day-2.md#connect-the-table-cell-ui-to-code)
+  - [Prepare the Meal Detail Scene for Navigation](02-Day-2.md#prepare-the-meal-detail-scene-fornavigation)
+- [Implement Navigation](02-Day-2.md#implement-navigation)
+  - [Enable Editing of Existing](02-Day-2.md#enable-editing-of-existing)
+  - [Cancel an Edit to an Existing](02-Day-2.md#cancel-an-edit-to-an-existing)
+  - [Support Deleting](02-Day-2.md#support-deleting)
+- [Persis Data](02-Day-2.md#persis-data)
+  - [Save and Load](02-Day-2.md#save-and-load)
+
 ## [Day 3](03-Day-3.md)
 
 ## [Day 4](04-Day-4.md)
